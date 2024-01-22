@@ -24,7 +24,9 @@ From 1990 to 2021, the world generally celebrated a consistent increase in avera
 
 ![](#LifeExpectancy)
 
++++ {"part": "abstract"}
 As detailed in the line graph above, the average life expectancy of the world **consistently grew** from 1990-2019. Our team hypothesizes that the increase in life expectancy can be directly correlated with the economic and lifestyle advancements during this time period. The initial rise in the 1990s likely stemmed from more countries embracing free market capitalism after the collapse of the USSR, increasing the purchasing power of millions of people. Furthermore, the effects of the Green Revolution were also present, with bountiful agricultural yields also increasing life expectancy by reducing the rate of famine.
++++
 
 ## Background
 

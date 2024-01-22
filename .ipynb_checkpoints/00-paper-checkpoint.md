@@ -12,6 +12,7 @@ subtitle: An in-depth study into the varying life expectancies of countries from
 
 abbreviations:
   USA: United States of America
+  USSR: Soviet Union
   UK: United Kingdom
 ---
 
@@ -19,32 +20,16 @@ abbreviations:
 From 1990 to 2021, the world generally celebrated a consistent increase in average life expectancy. This increase was likely a result of numerous key factors, including: the expansion of medical infrastructure across the world (hospitals, vaccines, proper nutrition), the lack of major wars, and the overall increase in human happiness due to economic prosperity. However, not all countries attained an equitable increase in life expectancy, largely due to their pre-existing human development groups. A pandemic in 2020 was also responsible for the abrupt decline in life expectancy across the world, leading to speculation that the meteoric rise in life expectancy may not recover.
 +++
 
+## Average Life Expectancy of the World (1990-2021)
 
+![](#LifeExpectancy)
 
-
-
-
-
-
-
-
-
-
-
-
-A tutorial to evolve markdown documents and notebooks into structured data
-
-**License:** CC-BY
-
-**Abstract**
-
-We introduce, a set of open-source, community-driven tools for MyST Markdown ([myst.tools](https://myst.tools)) designed for scientific communication, including a powerful authoring framework that supports blogs, online books, scientific papers, reports and journals articles.
+As detailed in the line graph above, the average life expectancy of the world **consistently grew** from 1990-2019. Our team hypothesizes that the increase in life expectancy can be directly correlated with the economic and lifestyle advancements during this time period. The initial rise in the 1990s likely stemmed from more countries embracing free market capitalism after the collapse of the USSR, increasing the purchasing power of millions of people. Furthermore, the effects of the Green Revolution were also present, with bountiful agricultural yields also increasing life expectancy by reducing the rate of famine.
 
 ## Background
 
 ![](#LinearRegresssionComparisonGraph)
 
-Scientific communication today is designed around print documents and pay-walled access to content. Over the last decade, the open-science movement has accelerated the use of pre-print services and data archives that are vastly improving the accessibility of scientific content. However, these systems are not designed for communicating modern scientific outputs, which encompasses **so much more** than a paper-centric model of the scholarly literature.
 
 > We believe how we share and communicate scientific knowledge should evolve past the status quo of print-based publishing and all the limitations of paper.
 
