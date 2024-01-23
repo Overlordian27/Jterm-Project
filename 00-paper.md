@@ -14,6 +14,11 @@ abbreviations:
   USA: United States of America
   USSR: Soviet Union
   UK: United Kingdom
+
+exports:
+  - format: pdf
+    template: arxiv_two_column
+    output: exports/my-document.pdf
 ---
 
 +++ {"part": "abstract"}
