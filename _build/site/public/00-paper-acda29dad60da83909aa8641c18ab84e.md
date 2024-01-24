@@ -50,7 +50,7 @@ As extrapolated from the bar graph above, countries can be divided into 4 Human 
 
 ![](#Table)
 
-:::{tip}
+:::{callout}
 This data set is only a fraction of all countries!
 :::
 

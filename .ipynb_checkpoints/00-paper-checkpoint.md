@@ -50,6 +50,10 @@ As extrapolated from the bar graph above, countries can be divided into 4 Human 
 
 ![](#Table)
 
+:::{tip}
+This data set is only a fraction of all countries!
+:::
+
 ## Linear Regression
 
 ![](#LinearRegresssionComparisonGraph)
