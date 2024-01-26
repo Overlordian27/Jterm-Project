@@ -94,6 +94,10 @@ Using the graph, we can derive equations that project and model the growth of li
 
 Upon examining the overall linear regressions of each Human Development Group, two trends emerge: Firstly, despite an abrupt halt to life expectancy increase due to the COVID-19 Pandemic, all human development groups are still forecasted to grow their life expectancies into the future (perhaps at a decreased rate). Secondly, it is apparent that countries in the Low Human Development Group have undertaken a remarkable transformation in life expectancy increase, which is highlighted by the slope of the Low countries being the steepest. Our team suspects that this is due to the natural principle of diminishing returns: The higher a country starts out on the Human Development Index, the less potential it has for life expectancy growth, whereas countries designated as Low Development are destined to rapidly increase their life expectancies due to burgeoning technological and medical advancements.
 
+## For the Future
+
+Our team suggests that for future cases of life expectancy data analysis, data sets containing vaccination rates for the COVID-19 virus should be considered.
+
 ## Conclusion
 
 In conclusion, our team ascertained that there were a variety of factors involved in the rapid increase of the world’s average life expectancy from 1990-2019, as well as substantial evidence to understand why this trend collapsed during the COVID-19 pandemic from 2020-2021. During this time period, quality of life generally increased across all countries, leading to better living conditions that increased the average life expectancy.
